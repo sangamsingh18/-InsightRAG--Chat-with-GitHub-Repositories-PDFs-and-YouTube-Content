@@ -1,0 +1,8 @@
+# InsightRAG Indexed Sources Log
+# This file tracks all indexed knowledge bases sequentially.
+
+1. [GitHub Repository] https://github.com/sangamsingh18/ApnaCoach-AI-Powered-Interview-Practice-Placement-Preparation-Platform.git
+2. [GitHub Repository] https://github.com/sangamsingh18/NeuralForge-auto-ML.git
+3. [GitHub Repository] https://github.com/sangamsingh18/sangam-ds.git
+4. [Uploaded Documents] Name: random (Files: sample-local-pdf.pdf)
+5. [YouTube Video] https://www.youtube.com/watch?v=iG9CE55wbtY
