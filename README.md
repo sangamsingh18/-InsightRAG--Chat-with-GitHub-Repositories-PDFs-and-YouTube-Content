@@ -1,7 +1,7 @@
 # InsightRAG
 Chat with GitHub Repositories, PDFs, and YouTube Content
 
-RepoRAG AI is a production-grade Retrieval-Augmented Generation (RAG) platform that ingests any public GitHub repository, splits and parses the code, indexes it inside a local vector database (ChromaDB), and sets up a conversational interface using LangChain and Groq LLMs.
+InsightRAG Ai is a production-grade Retrieval-Augmented Generation (RAG) platform that ingests any public GitHub repository, splits and parses the code, indexes it inside a local vector database (ChromaDB), and sets up a conversational interface using LangChain and Groq LLMs.
 
 ---
 
