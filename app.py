@@ -1,6 +1,8 @@
 import os
 # Force transformers to only use PyTorch and skip TensorFlow/Keras import checks
 os.environ["USE_TF"] = "0"
+# Fix protobuf descriptor compilation mismatch
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 
 import time
 import logging
