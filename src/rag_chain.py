@@ -18,7 +18,7 @@ from src.prompts import (
 logger = logging.getLogger(__name__)
 
 # Fallback configuration
-FALLBACK_MODEL = "llama-3.1-8b-instant"
+FALLBACK_MODEL = "openai/gpt-oss-20b"
 
 def robust_retrieve(source_name: str, query: str, top_k: int = 8) -> List[Any]:
     """
