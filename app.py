@@ -171,8 +171,7 @@ if "diagrams" not in st.session_state:
     st.session_state.diagrams = {}
 
 # Set the default LLM model
-selected_model = "llama-3.3-70b-versatile"
-
+selected_model = "openai/gpt-oss-20b"
 # Load API key strictly from environment configuration (.env)
 groq_api_key = os.getenv("GROQ_API_KEY", "").strip()
 st.session_state.groq_api_key = groq_api_key
